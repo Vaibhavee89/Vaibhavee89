@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Vaibhavee89/Vaibhavee89/blob/main/Banner(2).png)
 <h1 align="center">Hi 👋, I'm Vaibhavee</h1>
 <h3 align="center">Lifelong learner passionate about AI and Machine Learning</h3>
 
