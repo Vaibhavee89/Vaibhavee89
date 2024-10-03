@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYA8GCm8d8rfdrd4c6uq8JOADExaWYbHyJQ&s">
 
 <p align="left">
-<a href="https://twitter.com/vaibhaveesingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhaveesingh3" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/vaibhavee singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="30" width="40" /></a>
 <a href="https://instagram.com/vaibhaveesingh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhaveesingh89" height="30" width="40" /></a>
 </p>
