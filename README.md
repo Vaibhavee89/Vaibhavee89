@@ -1,8 +1,8 @@
 ![logo](https://github.com/Vaibhavee89/Vaibhavee89/blob/main/Banner(2).png)
 <h1 align="center">Hi 👋, I'm Vaibhavee</h1>
-<h3 align="center">Lifelong learner passionate about AI and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavee89&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavee89" /> </p>
+
+
 
 
 
