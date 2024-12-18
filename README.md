@@ -12,7 +12,12 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/vaibhavee singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="50" width="50" /></a>
+<a href="https://twitter.com/https://x.com/vaibhaveesingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vaibhaveesingh3" height="50" width="50" /></a>
 <a href="https://instagram.com/vaibhaveesingh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhaveesingh89" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vaibhaveesingh89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhaveesingh89/" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhvaibhavee1" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/singhvaibhavee1" height="50" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vaibhavee6olf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavee6olf/" height="50" width="50" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
