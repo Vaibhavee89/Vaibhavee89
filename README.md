@@ -12,7 +12,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vaibhavee-singh-1b7996252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="50" width="50" /></a>
-<a href="https://x.com/VaibhaveeSingh3" target="blank"><img align="center" src="" alt="https://x.com/vaibhaveesingh3" height="50" width="50" /></a>
+<a href="https://x.com/VaibhaveeSingh3" target="blank"><img align="center" src="https://github.com/Vaibhavee89/Vaibhavee89/blob/main/X_logo.jpg" alt="https://x.com/vaibhaveesingh3" height="50" width="50" /></a>
 <a href="https://leetcode.com/u/vaibhaveesingh89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhaveesingh89/" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhvaibhavee1" height="50" width="50" /></a>
 <a href="https://codeforces.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/singhvaibhavee1" height="50" width="50" /></a>
