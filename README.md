@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/vaibhavee singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vaibhavee-singh-1b7996252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="50" width="50" /></a>
 <a href="https://twitter.com/https://x.com/vaibhaveesingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vaibhaveesingh3" height="50" width="50" /></a>
 <a href="https://instagram.com/vaibhaveesingh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhaveesingh89" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/vaibhaveesingh89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhaveesingh89/" height="50" width="50" /></a>
