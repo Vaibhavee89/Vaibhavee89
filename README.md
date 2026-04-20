@@ -10,15 +10,13 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
-
-<!-- <a href="https://dev.to/vaibhavee_singh89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhavee singh" height="50" width="50" /></a> -->
-<a href="https://www.linkedin.com/in/vaibhavee-singh-1b7996252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavee singh" height="50" width="50" /></a>
-<a href="https://x.com/VaibhaveeSingh3" target="blank"><img align="center" src="https://github.com/Vaibhavee89/Vaibhavee89/blob/main/X_logo.jpg" alt="https://x.com/vaibhaveesingh3" height="50" width="50" /></a>
-<!-- <a href="https://leetcode.com/u/vaibhaveesingh89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhaveesingh89/" height="50" width="50" /></a> -->
-<!-- <a href="https://www.hackerrank.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/singhvaibhavee1" height="50" width="50" /></a> -->
-<!-- <a href="https://codeforces.com/profile/singhvaibhavee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/singhvaibhavee1" height="50" width="50" /></a> -->
-<!-- <a href="https://www.geeksforgeeks.org/user/vaibhavee6olf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavee6olf/" height="50" width="50" /></a> -->
-<!-- <a href="https://www.youtube.com/@UrsaVaibhavee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ursavaibhavee" height="50" width="50" /></a> -->
+  <a href="https://www.linkedin.com/in/vaibhavee-singh-1b7996252/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/VaibhaveeSingh3" target="_blank">
+    <img src="https://github.com/Vaibhavee89/Vaibhavee89/blob/main/X_logo.jpg" height="40" width="40" />
+  </a>
 </p>
 
 
