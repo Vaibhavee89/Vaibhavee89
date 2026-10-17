@@ -4,6 +4,7 @@
 
 <p align="center">
   <b>Ex-intern @ Scopely & Blinkit</b><br>
+  Working on Backend Infrastructure & AI
 </p>
 
 <p align="center">
@@ -16,16 +17,6 @@
   </a>
 </p>
 
-
-
-<p align="center"><i>Always leaning. :)</i></p>
-
-
-
-
-
-
-
-
+<p align="center"><i>Always learning. :)</i></p>
 
 
